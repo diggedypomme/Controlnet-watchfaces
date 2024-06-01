@@ -11,6 +11,8 @@ This makes use of clockfaces generated for KindleTimeMachine, with ner ones gene
 
 Here are some of the generated GIFs showing different watchfaces. Some are better than others...:
 
+
+This first one is myxomycetes/mushrooms which had hand picked images from multiple batches. The rest were just a single pass through
 - **Mushrooms.gif**
     ![Coral](./gifs/coolmushrooms.gif)
 
