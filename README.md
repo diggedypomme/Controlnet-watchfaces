@@ -1,5 +1,10 @@
 # Controlnet-watchfaces - Android Watchfaces generated with Stable Diffusion and Controlnet and based on examples from:
+https://github.com/android/wear-os-samples
+https://github.com/android/wear-os-samples/tree/main?tab=Apache-2.0-1-ov-file#readme
 
+and
+
+SimpleAnalogue from Android studio
 
 This makes use of clockfaces generated for KindleTimeMachine, with ner ones generated to match circular screens and analogue clocks : https://github.com/diggedypomme/KindleTimeMachine
 
