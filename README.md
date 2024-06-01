@@ -5,26 +5,15 @@ This makes use of clockfaces generated for KindleTimeMachine, with ner ones gene
 
 -- 
  
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Preview](#preview)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 
 ## Preview
 
-Here are some of the generated GIFs showing different watchfaces:
+Here are some of the generated GIFs showing different watchfaces. Some are better than others...:
 
-- **coral.gif**
-    ![Coral](./gifs/coral.gif)
+- **Mushrooms.gif**
+    ![Coral](./gifs/coolmushrooms.gif)
 
-- **duneworms.gif**
-    ![Duneworms](./gifs/duneworms.gif)
 
 - **flowers_jpg.gif**
     ![Flowers](./gifs/flowers_jpg.gif)
@@ -43,6 +32,13 @@ Here are some of the generated GIFs showing different watchfaces:
 
 - **snakes.gif**
     ![Snakes](./gifs/snakes.gif)
+
+
+- **coral.gif**
+    ![Coral](./gifs/coral.gif)
+
+- **duneworms.gif**
+    ![Duneworms](./gifs/duneworms.gif)
 
 ## Folder Structure
 
