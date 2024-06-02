@@ -9,7 +9,7 @@ SimpleAnalogue from Android studio
 This makes use of clockfaces generated for KindleTimeMachine, with ner ones generated to match circular screens and analogue clocks : https://github.com/diggedypomme/KindleTimeMachine
 
 -- 
- 
+ ! NOTE THAT THIS IS STILL A WORK IN PROGRESS !
 
 
 ## Preview
